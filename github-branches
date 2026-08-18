@@ -1,0 +1,27 @@
+$ curl -s https://api.github.com/repos/saurabhghotekar1835/mcino-Introduction-to-Git-and-GitHub/branches
+[
+  {
+    "name": "bug-fix-revert",
+    "commit": {
+      "sha": "b494f1fe8043c1f26166914644e6d9b229883b24",
+      "url": "https://api.github.com/repos/saurabhghotekar1835/mcino-Introduction-to-Git-and-GitHub/commits/b494f1fe8043c1f26166914644e6d9b229883b24"
+    },
+    "protected": false
+  },
+  {
+    "name": "bug-fix-typo",
+    "commit": {
+      "sha": "9d7d967084e2e9c6764f14d4f08773aa7e53b54c",
+      "url": "https://api.github.com/repos/saurabhghotekar1835/mcino-Introduction-to-Git-and-GitHub/commits/9d7d967084e2e9c6764f14d4f08773aa7e53b54c"
+    },
+    "protected": false
+  },
+  {
+    "name": "main",
+    "commit": {
+      "sha": "68291535811bc4f1a0edcbdd69be93080b9e6540",
+      "url": "https://api.github.com/repos/saurabhghotekar1835/mcino-Introduction-to-Git-and-GitHub/commits/68291535811bc4f1a0edcbdd69be93080b9e6540"
+    },
+    "protected": false
+  }
+]
